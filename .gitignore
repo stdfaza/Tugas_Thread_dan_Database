@@ -1,0 +1,13 @@
+# Java compiled files
+*.class
+
+# Maven build directory (jika Anda pakai Maven)
+/target/
+
+# Library/Driver JARs (ini tidak boleh di-upload)
+*.jar
+
+# IDE files (jika Anda pakai)
+.idea/
+.vscode/
+*.iml
